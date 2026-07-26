@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🤖 AI Learning Buddy
 
 An AI-powered learning assistant built using **Google Gemini API** and **Streamlit** that helps students learn, understand concepts, and get instant AI-powered explanations.
@@ -7,6 +9,7 @@ An AI-powered learning assistant built using **Google Gemini API** and **Streaml
 🌐 Streamlit App:
 https://ai-learning-buddyy.streamlit.app/
 
+</div>
 ---
 
 ## 📌 Project Overview
